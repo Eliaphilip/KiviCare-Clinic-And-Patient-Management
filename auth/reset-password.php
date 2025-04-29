@@ -1,7 +1,7 @@
 <?php
 // Start session and include config
 session_start();
-require_once '../includes/config.php';
+require_once 'config.php';
 
 // Initialize variables
 $error = '';
